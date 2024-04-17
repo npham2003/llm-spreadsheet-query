@@ -20,6 +20,6 @@ This repository is a proof of concept for interfacing with an excel spreadsheet 
 ## How to Change the Excel Spreadsheet
 
 - Add the xlsx file to the content folder
-- Change the file_name string on line 9 to the name of your file.
+- Change the file_name string on line 9 of main.py to the name of your file.
   - Do not include the file extension
 
